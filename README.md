@@ -10,3 +10,5 @@ Train corpus | Test corpus | Precision | Recall | F-measure
 train | validation | 0.64705 | 0.24812 | 0.35869
 train + validation | test | 0.51063 | 0.28915 | 0.36923
 train + validation + test | test_final | 0.74698 | 0.31313 | 0.44128
+
+4\. Ссылка на ноутбук в Google Colaboratory: https://colab.research.google.com/drive/1HggcJqGs1W63uG7O6PYCiFGp7QpwA5c9?usp=sharing
