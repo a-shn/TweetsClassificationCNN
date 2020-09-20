@@ -1,10 +1,10 @@
 # Тестирование CNN на корпусе Twitter
 
-1\. Данные: task2_ru_training_raw.tsv (train), task2_ru_validation_raw.tsv (validation), task2_ru_test_raw.tsv (test), task2_ru_test_final_raw.tsv (test_final)
+1\. Данные: task2_ru_training_raw.tsv (train), task2_ru_validation_raw.tsv (validation), task2_ru_test_raw.tsv (test), task2_ru_test_final_raw.tsv (test_final).
 
-2\. 
+2\. Тестирование_CNN_на_корпусе_Twitter.ipynb - ноутбук с моделью CNN для бинарной классификации твитов.
 
-3\. Результаты в виде таблицы
+3\. Результаты в виде таблицы:
 Train corpus | Test corpus | Precision | Recall | F-measure
 --- | --- | --- | --- | ---
 train | validation | 0.64705 | 0.24812 | 0.35869
